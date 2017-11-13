@@ -1,3 +1,5 @@
+package cl.managed.bean;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import javax.faces.application.FacesMessage;
