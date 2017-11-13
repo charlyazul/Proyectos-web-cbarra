@@ -32,7 +32,6 @@ public class CalendarView {
      
     public void click() {
         RequestContext requestContext = RequestContext.getCurrentInstance();
-         
         requestContext.update("form:display");
         requestContext.execute("PF('dlg').show()");
     }

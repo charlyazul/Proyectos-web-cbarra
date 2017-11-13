@@ -9,6 +9,11 @@
 		<managed-bean-class>cl.clinica.managed.CalendarView</managed-bean-class>
 		<managed-bean-scope>session</managed-bean-scope>
 	</managed-bean>
+	<managed-bean>
+		<managed-bean-name>userLoginView</managed-bean-name>
+		<managed-bean-class>cl.clinica.managed.UserLoginView</managed-bean-class>
+		<managed-bean-scope>session</managed-bean-scope>
+	</managed-bean>
 
 </faces-config>
  
