@@ -1,4 +1,4 @@
-package cl.managed.bean;
+package cl.clinica.managed;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
